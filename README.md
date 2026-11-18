@@ -7,7 +7,7 @@ Tecnicatura Universitaria en Programación a Distancia – UTN
 | --- | --- |
 | Alumno | Lua Manuel Pelus – luampelus@gmail.com |
 | Profesor | Martín León Aristiaran |
-| Fecha | 09/11/2026 |
+| Fecha | 17/11/2026 |
 | Modalidad | Individual |
 | Video explicativo | [completar con el link de YouTube] |
 | Informe | [`informe/TP_Integrador_AySO_Pelus_Lua.pdf`](informe/) |
