@@ -9,8 +9,8 @@ Tecnicatura Universitaria en Programación a Distancia – UTN
 | Profesor | Martín León Aristiaran |
 | Fecha | 17/11/2026 |
 | Modalidad | Individual |
-| Video explicativo | [completar con el link de YouTube] |
-| Informe | [`informe/TP_Integrador_AySO_Pelus_Lua.pdf`](informe/) |
+| Video explicativo | https://youtu.be/za4YI4SnltE |
+| Informe | [`informe/TP_Integrador_AySO_Pelus_Lua.pdf`](informe/TP_Integrador_AySO_Pelus_Lua.pdf) |
 
 ## De qué se trata
 
